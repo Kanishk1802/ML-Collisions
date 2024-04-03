@@ -4,4 +4,7 @@ Using machine learning, we can predict the severity, location, and timing of acc
 
 By being able to predict the likelihood, severity, and time of accidents in certain regions, we can help first responders (paramedics, firefighters, police) be in a better position to handle the influx of accidents. There has been an extreme shortage of first responders in Canada and the ministry has been struggling to divide and disperse the workforce strategically. Interestingly with COVID-19, the workforce had taken a hit on staff supply and financial aid. Given the conditions and availability of resources, if we can correlate and predict the severity and timing of collisions, assets could be efficiently allocated to reduce stress on first responders.
 
-Potential Next Steps(s): Evaluating accuracy/efficacy of model though precision/recall, Applying Ensemble Learning, Hyperparamter Optimization
+Boosted Decision Tree Results:
+Precision: 0.87
+Recall: 0.75
+F1: 0.81
